@@ -1,0 +1,29 @@
+.header
+{
+    background-color: cyan;
+    display:flex;
+    justify-content: space-between;
+}
+
+.heading
+{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.description
+{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.Animal
+{
+    background-color: wheat;
+    border-radius: 50px ;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
